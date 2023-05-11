@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .ul-common {
+    @apply text-[13px] ;
+  }
+  .li-common{
+    @apply px-3 relative after:absolute after:w-[1px] after:h-3 after:bg-black after:right-0 after:top-1/2 after:-translate-y-1/2
+  }
+}
+
+
+@font-face {
+  font-family: 'S-CoreDream-3Light';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  font-family: 'S-CoreDream-3Light';
+}
