@@ -2,11 +2,11 @@ import { createRouter, createWebHistory } from "vue-router";
 
 const routes = [
   {
-    path: "/ottugi/",
+    path: "/",
     name: "HomePage",
     component: () => import("@/pages/HomePage"),
   },
-  { path: "/ottugi/Detail", 
+  { path: "/Detail", 
     name: "DetailPage", 
     component: () => import("@/pages/DetailPage") },
 ];
