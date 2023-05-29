@@ -1,24 +1,52 @@
-# ottogi
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 프로젝트 이름
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<p align="center">
+  <br>
+  오뚜기 클론 코딩
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Broadcast Thumbnail](./public/ottugi.png)  
+  <br>
+</p>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 프로젝트 소개
+
+<p align="justify">
+프로젝트 개요
+<br>
+오뚜기 홈페이지 클론 코딩
+</p>
+
+<br>
+
+## STACK
+
+Vue
+<br>
+TailwindCSs
+<br>
+Vue-router
+<br>
+Swiper
+
+## 구현 기능
+
+### 기능 1
+슬라이더 기능 구현
+### 기능 2
+카테고리에 맞추어 SNS리스트 전환
+### 기능 3
+반응형 구현
+### 기능 4
+모바일화면에서 서브메뉴 닫힘 기능을 개선하여 제공
+<br>
+
+
+<p align="justify">
+
+</p>
+
+<br>
+
