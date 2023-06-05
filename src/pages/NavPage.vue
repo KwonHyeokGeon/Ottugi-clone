@@ -25,7 +25,7 @@
       <!-- pc 메뉴 -->
       <ul class="sm:flex hidden cursor-pointer">
         <li v-for="e in NavList" :key="e"
-          class="basis-[16.666%] font-extrabold text-center py-6 trasition-all relative after:absolute after:transition-all after:w-full after:h-0 duration-500 after:bg-[#d32a2f] after:left-0 after:bottom-0 hover:after:h-1 hover:text-[#d32a2f] group">
+          class="basis-[16.666%] font-extrabold text-center py-6 trasition-all relative after:absolute after:transition-all after:w-full after:h-0 duration-500 after:bg-main after:left-0 after:bottom-0 hover:after:h-1 hover:text-main group">
           <a href="#" class="">{{ e }}</a>
           <span
             class="inline-block bg-slate-500 w-[2px] h-3 absolute right-0 top-1/2 -translate-y-1/2 group-last-of-type:hidden"></span>

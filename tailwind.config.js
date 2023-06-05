@@ -6,8 +6,12 @@ module.exports = {
       backgroundImage: {
       },
       backgroundColor: {
-        btn:'#263a6b'
+        btn:'#263a6b',
+        main: '#d32a2f'
       },
+      textColor:{
+        main: '#d32a2f'
+      }
     },
   },
   plugins: [],
